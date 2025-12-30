@@ -26,10 +26,12 @@ export const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-tropical-dark/60 via-tropical-dark/40 to-tropical-dark z-10" />
-        <img 
+        <motion.img 
           src={IMAGES.heroBg} 
           alt="Tropical Background" 
           className="w-full h-full object-cover"
+          animate={{ scale: [1, 1.1, 1] }}
+          transition={{ duration: 20, repeat: Infinity, ease: "easeInOut" }}
         />
       </div>
 
