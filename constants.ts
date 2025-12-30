@@ -8,7 +8,7 @@ import bird6Img from './bird6.jpeg';
 import nails1Img from './71_main-v1691139770.webp';
 import nails2Img from './TPjANY2nWWQUyt0leQXQUG2n4MNJz0lrcYVwvYVw-content_front.jpg';
 import nails3Img from './cJUVoNhbTZ7oXmEZcXLxrTBttvg1Lwppft6KxIdP-content_front.jpg';
-import nails4Img from './y25vv7regfb51.webp';
+import nails4Img from './71_main-v1691139770.webp';
 
 // Configured constants for the application
 
